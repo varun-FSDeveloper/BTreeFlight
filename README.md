@@ -1,14 +1,14 @@
-![icon_logo](https://user-images.githubusercontent.com/56977388/178157849-38d2f2c3-1c93-4dac-9577-57f3a752e2cd.png)
+![icon_logo](https://github.com/varun-FSDeveloper/BTreeFlight/assets/153975508/7b010aed-1466-46e3-8636-891bf59dcb25)
 
 
 
 A flight booking Django application written in Python, HTML, CSS & Javascript.
-This is the capstone project for CS50's Web Programming with Python and Javascript.
+This is the BTree project for Python Programming BootCamp with Python and Javascript.
 
-#### Project Video: [Watch on Youtube](https://www.youtube.com/watch?v=3tD4OsuGmoo)
+#### Project Video: [Watch on Youtube](https://www.youtube.com/channel/UC3CWkAYRbqUFLq6wQF-VyPw)
 
 
-<img alt="flight" src="https://user-images.githubusercontent.com/56977388/178156598-69491e88-bd9a-42dc-88f3-afeb02d7161e.png">
+<img alt="flight" src="https://github.com/varun-FSDeveloper/BTreeFlight/assets/153975508/4a12264a-0f7c-474e-a9af-03e91b05f4e8.png">
 
 
 ### Features
@@ -66,4 +66,4 @@ This is the capstone project for CS50's Web Programming with Python and Javascri
 - Open web browser and goto `127.0.0.1:8000` url to start using the web application.
 
 
-Project video [https://youtu.be/3tD4OsuGmoo](https://youtu.be/3tD4OsuGmoo)
+- Varun 👍🏻
