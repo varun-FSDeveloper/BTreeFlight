@@ -1,0 +1,26 @@
+{% extends 'flight/layout.html' %}
+
+{% load static %}
+
+{% block head %}
+    <title>Terms and Conditions | Flight</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/privacy-policy.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/about.css' %}">
+{% endblock head %}
+
+{% block body %}
+    <section class="privacybanner-section">
+        <img src="{% static 'img/about-us.png' %}" alt="Privacy Policy" class="privacybannerimg">
+    </section>
+    <section class="section section1">
+        <div class="container">
+            <h1>Let us take care of the journey, while you savor every moment at the destination.</h1>
+            <p>Today, air travel is an integral part of global transportation infrastructure, connecting people and cultures across continents and facilitating economic growth and tourism. With ongoing advancements in aircraft design, fuel efficiency, and air traffic management, the future of air travel holds promise for even greater convenience, sustainability, and accessibility.</p>
+            <p>However, the travel experience has remained largely unchanged - travel is still chaotic and uncertain. People still have bad trips.</p>
+            <p>This data structure enables quick retrieval of flight information, such as departure and arrival times, airline details, and ticket availability, making it indispensable for airline reservation systems and flight scheduling algorithms</p>
+            <p>Today, we make bookings without a clear idea of what our trip is going to be like - what time we’ll leave home, what time we’ll reach our destination, and how comfortable we’ll be while we get this trip. On the day of the trip, we still frantically search for a cab, get nervous when we encounter traffic, and run to the boarding gate to get there on-time.</p>
+            <p>Passengers can enjoy the comfort of modern aircraft, equipped with advanced amenities and entertainment options, while soaring above the clouds to their desired destinations.</p>
+            <p>Our goal is to help you have a great trip each time. We’re going for it.</p>
+        </div>
+    </section>
+{% endblock%}
