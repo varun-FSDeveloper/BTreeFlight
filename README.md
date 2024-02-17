@@ -65,5 +65,12 @@ This is the BTree project for Python Programming BootCamp with Python and Javasc
 - Run the command `py manage.py runserver` to run the web server.
 - Open web browser and goto `127.0.0.1:8000` url to start using the web application.
 
+### Our Other Social Platforms
+
+Subscribe - https://bit.ly/Youtubebtree 
+Instagram - https://bit.ly/Instagrambtree 
+Facebook - https://bit.ly/btreefacebookpage 
+LinkedIn - https://bit.ly/Linkedinbtree 
+Twitter - https://bit.ly/Twitterbtree 
 
  Your Dev - Varun👍🏻
