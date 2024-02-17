@@ -67,9 +67,8 @@ This is the BTree project for Python Programming BootCamp with Python and Javasc
 
 ### Our Other Social Platforms
 
-- ![icon_logo](https://github.com/varun-FSDeveloper/BTreeFlight/assets/153975508/0a3e56d0-9fbf-4f33-ab09-b4d12d480b79)
- Youtube - https://bit.ly/Youtubebtree
-- Instagram - https://bit.ly/Instagrambtree 
+- Youtube - https://bit.ly/Youtubebtree
+- ![icon_logo](https://github.com/varun-FSDeveloper/BTreeFlight/assets/153975508/e1fb06cf-4e4e-44e7-9e84-a353e166b403) Instagram - https://bit.ly/Instagrambtree 
 - Facebook - https://bit.ly/btreefacebookpage 
 - LinkedIn - https://bit.ly/Linkedinbtree 
 - Twitter - https://bit.ly/Twitterbtree 
