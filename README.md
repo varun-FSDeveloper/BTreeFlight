@@ -67,10 +67,10 @@ This is the BTree project for Python Programming BootCamp with Python and Javasc
 
 ### Our Other Social Platforms
 
-Subscribe - https://bit.ly/Youtubebtree 
-Instagram - https://bit.ly/Instagrambtree 
-Facebook - https://bit.ly/btreefacebookpage 
-LinkedIn - https://bit.ly/Linkedinbtree 
-Twitter - https://bit.ly/Twitterbtree 
+- Subscribe - https://bit.ly/Youtubebtree
+- Instagram - https://bit.ly/Instagrambtree 
+- Facebook - https://bit.ly/btreefacebookpage 
+- LinkedIn - https://bit.ly/Linkedinbtree 
+- Twitter - https://bit.ly/Twitterbtree 
 
  Your Dev - Varun👍🏻
