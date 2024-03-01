@@ -6,7 +6,7 @@ A flight booking Django application written in Python, HTML, CSS & Javascript.
 This is the BTree project for Python Programming BootCamp with Python and Javascript.
 
 #### Project Video: [Watch on Youtube](https://www.youtube.com/channel/UC3CWkAYRbqUFLq6wQF-VyPw)
-### Live Demo : [Click Here](http://52.90.125.109:8000/)
+### Live Demo : [Click Here](http://54.175.64.42:8000/)
 
 
 <img alt="flight" src="https://github.com/varun-FSDeveloper/BTreeFlight/assets/153975508/4a12264a-0f7c-474e-a9af-03e91b05f4e8.png">
